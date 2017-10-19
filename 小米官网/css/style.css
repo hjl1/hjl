@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.banner{
+    height:120px;
+}
+.banner a{
+    display:block;
+    height:120px;
+    background:url("../img/banner.jpg")  no-repeat center 0 ;
+}
